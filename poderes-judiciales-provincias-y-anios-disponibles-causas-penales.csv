@@ -1,0 +1,23 @@
+﻿provincia_id,provincia_nombre,institucion,anio,publica_casos_iniciados,publica_actos_procesales
+02,Ciudad Autónoma de Buenos Aires,Poder Judicial de la Ciudad Autónoma de Buenos Aires,2017,S,S
+14,Córdoba,Poder Judicial de Córdoba,2017,S,S
+14,Córdoba,Poder Judicial de Córdoba,2018,S,S
+14,Córdoba,Poder Judicial de Córdoba,2019,S,S
+14,Córdoba,Poder Judicial de Córdoba,2020,S,S
+14,Córdoba,Poder Judicial de Córdoba,2021,S,S
+14,Córdoba,Poder Judicial de Córdoba,2022,S,S
+18,Corrientes,Poder Judicial de Corrientes,2018,S,S
+18,Corrientes,Poder Judicial de Corrientes,2019,S,S
+26,Chubut,Poder Judicial de Chubut,2017,S,S
+26,Chubut,Poder Judicial de Chubut,2018,S,S
+26,Chubut,Poder Judicial de Chubut,2019,S,S
+26,Chubut,Poder Judicial de Chubut,2020,S,S
+26,Chubut,Poder Judicial de Chubut,2021,S,S
+26,Chubut,Poder Judicial de Chubut,2022,S,S
+26,Chubut,Poder Judicial de Chubut,2023,S,S
+26,Chubut,Poder Judicial de Chubut,2024,S,S
+42,La Pampa,Poder Judicial de La Pampa,2017,S,S
+42,La Pampa,Poder Judicial de La Pampa,2018,S,S
+42,La Pampa,Poder Judicial de La Pampa,2019,S,S
+62,Río Negro,Poder Judicial de Río Negro,2018,S,N
+94,Tierra del Fuego,Poder Judicial de Tierra del Fuego,2017,S,N
